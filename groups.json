@@ -1,0 +1,88 @@
+[
+    {
+        "name": "struts",
+        "type": "framework",
+        "cves": [
+            "CVE-2010-1870", "CVE-2012-0391", "CVE-2012-0392", "CVE-2012-0393", "CVE-2012-0394",
+            "CVE-2013-1966", "CVE-2013-2251", "CVE-2015-0899",
+            "CVE-2016-1182", "CVE-2016-3087", "CVE-2017-12611", "CVE-2017-9791", "CVE-2018-11776",
+            "CVE-2011-3923", "CVE-2012-1007", "CVE-2013-2248", "CVE-2014-0114", "CVE-2016-1181",
+            "CVE-2016-3081", "CVE-2016-4438", "CVE-2017-5638", "CVE-2017-9805", "CVE-2018-1327"
+        ]
+    },
+    {
+        "name": "wordpress",
+        "type": "cms",
+        "cves": [
+            "CVE-2014-6446", "CVE-2016-10033", "CVE-2018-6389", "CVE-2018-7422", "CVE-2019-6703",
+            "CVE-2016-6896"
+        ]
+    },
+    {
+        "name": "drupal",
+        "type": "cms",
+        "cves": [
+            "CVE-2006-2743", "CVE-2007-5416", "CVE-2014-3704", "CVE-2018-7600", "CVE-2018-7602",
+            "CVE-2019-6340", "CVE-2019-6341"
+        ]
+    },
+    {
+        "name": "rails",
+        "type": "framework",
+        "cves": [
+            "CVE-2019-5418"
+        ]
+    },
+    {
+        "name": "tomcat",
+        "type": "framework",
+        "cves": [
+            "CVE-2019-0232"
+        ]
+    },
+    {
+        "name": "uWSGI",
+        "type": "framework",
+        "cves": [
+            "CVE-2018-7490"
+        ]
+    },
+    {
+        "name": "weblogic",
+        "type": "framework",
+        "cves": [
+            "CVE-2017-10271", "CVE-2018-3252", "CVE-2019-2618", "CVE-2019-2725",
+            "CVE-2019-2729", "CVE-2020-14882"
+        ]
+    },
+    {
+        "name": "Magento",
+        "type": "e-commerce",
+        "cves": [
+            "CVE-2015-1397", "CVE-2015-1398", "CVE-2015-1399", "CVE-2016-4010",
+            "CVE-2019-7139"
+            
+        ]
+    },
+    {
+        "name": "vBulletin",
+        "type": "forum",
+        "cves": [
+            "CVE-2016-6195", "CVE-2017-17671", "CVE-2017-17672", "CVE-2019-16759"
+        ]
+    },
+    {
+        "name": "Jolokia",
+        "type": "framework",
+        "cves": [
+            "CVE-2018-1000129", "CVE-2018-1000130"
+       ]
+    },
+    {
+        "name": "ColdFusion",
+        "type": "framework",
+        "cves": [
+            "CVE-2018-15961"
+       ]
+    }
+]
